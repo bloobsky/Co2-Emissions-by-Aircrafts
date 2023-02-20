@@ -537,7 +537,6 @@ if __name__ == "__main__":
     #ApiResponse().list_international_flights_by_countries()
 
    # ApiResponse().list_flights_by_aircraft_type()
-
    ### routes
     #ApiConnector('airlabs', 'routes').save_routes('KJFK')
     ApiResponse().list_top_polluted_routes()
